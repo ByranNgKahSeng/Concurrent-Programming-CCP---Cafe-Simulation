@@ -1,2 +1,4 @@
-# Concurrent-Programming-CCP---Cafe-Simulation
+# Java Concurrent-Programming-CCP---Cafe-Simulation
 The coffee shop simulation project offers a comprehensive exploration of concurrent programming concepts within the context of a bustling café environment. 
+
+Through Java programming, the project simulates the interactions between customers and baristas, emphasizing synchronization, mutual exclusion, and thread management techniques. As customers arrive, place orders, and enjoy their beverages, baristas efficiently prepare drinks using available resources such as espresso machines and juice taps. The simulation also incorporates essential features like customer queue management, real-time progress tracking of drink preparation and consumption, and accurate reporting of sales data. While meeting a range of specified requirements, the project provides an insightful hands-on experience in implementing concurrent programming principles in a practical scenario.
